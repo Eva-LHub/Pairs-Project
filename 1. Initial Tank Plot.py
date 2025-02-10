@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 30 16:35:16 2025
-
-@author: evaloughridge
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import fsolve
